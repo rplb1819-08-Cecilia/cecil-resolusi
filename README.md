@@ -1,2 +1,2 @@
 # cecil-resolusi
-Repository untuk menyimpan  WPU kedepannya.
+Repository untuk menyimpan  resolusi cecil kedepannya.
